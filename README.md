@@ -1,2 +1,2 @@
 # FranciscoMarcelo
-resume site showing what i can do 
+Resume site to show what i can do 
